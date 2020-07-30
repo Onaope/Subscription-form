@@ -41,12 +41,12 @@ html{
 .formcontainer {
 
   border-radius: 5px;
-  border: 15px solid crimson;
-  width: 60%;
+  border: 30px solid ivory;
+  width: 100%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
-  display: table ;
+  display: table;
   box-sizing:border-box ;
-  background:ivory no-repeat center center fixed;
+  background:crimson no-repeat center center fixed;
 }
 form{
   box-sizing:border-box;
