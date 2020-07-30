@@ -34,16 +34,17 @@ html{
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display:table ;
   box-sizing:border-box ;
-  background:crimson no-repeat center center fixed;
+  background:ivory no-repeat center center fixed;
+     border: 15px solid crimson;
 }
 .formcontainer {
   border-radius: 5px;
-  border: 15px solid ivory;
+  border: 15px solid crimson;
   width: 100%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display: table;
   box-sizing:border-box ;
-  background:crimson no-repeat center center fixed;
+  background:ivory no-repeat center center fixed;
     padding:20px;
 }
 form{
