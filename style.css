@@ -33,7 +33,7 @@ html{
 
   border-radius: 5px;
   border: 15px solid ivory;
-  width: 100%;
+  width: 80%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display:table ;
   box-sizing:border-box ;
@@ -43,7 +43,7 @@ html{
 
   border-radius: 5px;
   border: 15px solid ivory;
-  width: 100%;
+  width: 60%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display: table ;
   box-sizing:border-box ;
