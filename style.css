@@ -10,7 +10,6 @@ html{
     display: table ;
     margin:auto;
     border-radius: 5px;
-  border: 15px solid crimson;
   width: 100%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
 }
@@ -32,8 +31,8 @@ html{
 .bgcontainer {
 
   border-radius: 5px;
-  border: 15px solid ivory;
-  width: 80%;
+  border: 30px solid ivory;
+  width: 100%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display:table ;
   box-sizing:border-box ;
@@ -42,7 +41,7 @@ html{
 .formcontainer {
 
   border-radius: 5px;
-  border: 15px solid ivory;
+  border: 15px solid crimson;
   width: 60%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display: table ;
