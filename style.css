@@ -1,7 +1,7 @@
 @import{'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap'}
 html{
     box-sizing: border-box;      
-    background:crimson no-repeat center center fixed;
+    background:ivory no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -32,7 +32,7 @@ html{
 .bgcontainer {
 
   border-radius: 5px;
-  border: 15px solid crimson;
+  border: 15px solid ivory;
   width: 100%;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
   display:table ;
